@@ -1,4 +1,4 @@
-# React Core Concepts Page
+# React Quiz Page
 
 ## 🖼️ Preview
 ![Preview](./Assets/ReactQuiz.png)
